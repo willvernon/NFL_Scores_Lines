@@ -1,5 +1,6 @@
 # NFL_Scores_Lines
 About Dataset
+![football](https://github.com/user-attachments/assets/79b98355-a18c-46ed-b727-52db0c764f4a)
 NFL Box Score Betting Lines and Teams
 
 This dataset contains information about the betting lines and teams for every NFL game from the 2010-2019 seasons. The dataset includes various features such as the home and away teams, the point spread, the over/under, and the actual scores.
